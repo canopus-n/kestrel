@@ -14,10 +14,10 @@ seq2seq natively and produces clean text output.
 """
 
 import torch
-from datasets import load_dataset
+from datasets import load_dataset, Dataset
 from transformers import (
     T5ForConditionalGeneration,
-    T5Tokenizer,
+    AutoTokenizer,
     Seq2SeqTrainer,
     Seq2SeqTrainingArguments,
     DataCollatorForSeq2Seq,
@@ -36,9 +36,14 @@ def main():
         device = "cpu"
         print("Using CPU (this will be slow)")
 
-    # Load dataset
-    print("Loading credit_card_3k dataset...")
-    dataset = load_dataset("crossingminds/credit_card_3k")
+    # Load dataset from combined_transactions.csv
+    print("Loading combined_transactions.csv...")
+    dataset = load_dataset("csv", data_files="combined_transactions.csv", split="train")
+    dataset = dataset.rename_column("description", "transaction")
+
+    # Split into train/test (85/15)
+    split = dataset.train_test_split(test_size=0.15, seed=42)
+    dataset = split
     print(f"Train: {len(dataset['train'])} examples")
     print(f"Test: {len(dataset['test'])} examples")
 
@@ -53,7 +58,7 @@ def main():
     # Load model and tokenizer
     model_name = "t5-small"
     print(f"Loading {model_name}...")
-    tokenizer = T5Tokenizer.from_pretrained(model_name)
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = T5ForConditionalGeneration.from_pretrained(model_name)
 
     # Preprocessing
@@ -126,7 +131,7 @@ def main():
         args=training_args,
         train_dataset=tokenized_train,
         eval_dataset=tokenized_test,
-        tokenizer=tokenizer,
+        processing_class=tokenizer,
         data_collator=data_collator,
     )
 

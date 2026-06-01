@@ -12,7 +12,7 @@ import re
 from pathlib import Path
 
 import torch
-from transformers import T5ForConditionalGeneration, T5Tokenizer
+from transformers import T5ForConditionalGeneration, AutoTokenizer
 
 
 def load_model(model_path="./output/final"):
@@ -23,7 +23,7 @@ def load_model(model_path="./output/final"):
         print("Run train.py first.")
         exit(1)
 
-    tokenizer = T5Tokenizer.from_pretrained(path)
+    tokenizer = AutoTokenizer.from_pretrained("t5-small")
     model = T5ForConditionalGeneration.from_pretrained(path)
     model.eval()
 

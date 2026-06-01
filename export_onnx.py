@@ -6,7 +6,7 @@ Uses HuggingFace Optimum for clean ONNX export with proper input/output naming.
 
 from pathlib import Path
 from optimum.onnxruntime import ORTModelForSeq2SeqLM
-from transformers import T5Tokenizer
+from transformers import AutoTokenizer
 
 
 def main():
@@ -19,7 +19,7 @@ def main():
         return
 
     print(f"Loading model from {model_path}...")
-    tokenizer = T5Tokenizer.from_pretrained(model_path)
+    tokenizer = AutoTokenizer.from_pretrained("t5-small")
 
     # Export to ONNX using Optimum
     print(f"Exporting to ONNX at {onnx_path}...")
