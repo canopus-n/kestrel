@@ -1,0 +1,974 @@
+merchant,root,mid_level,leaf
+3X4 GENETICS,Expense,Health & Wellness,Health Products
+3X4GENETICS,Expense,Health & Wellness,Health Products
+7-Eleven,Expense,Food & Dining,Groceries
+937 Printshop,Expense,Personal Services,Printing & Shipping
+A DOLLAR,Expense,Shopping,General Retail
+A-Z DOLLAR,Expense,Shopping,General Retail
+A101,Expense,Food & Dining,Groceries
+AAINA BEAUTY PARLOR,Expense,Health & Wellness,Beauty & Spa
+ABBATE BAKERY,Expense,Food & Dining,Bakery & Desserts
+ACME,Expense,Food & Dining,Groceries
+ACME Markets,Expense,Food & Dining,Groceries
+ACTBLUE STACEY.ABRAMS,Expense,Donations & Gifts,Charity & Donations
+ACTBLUE VOTE.ORG,Expense,Donations & Gifts,Charity & Donations
+ADLB,Income,Transfers,Deposit
+AIR PLAY,Expense,Entertainment,Amusement & Parks
+ALDI,Expense,Food & Dining,Groceries
+ALL CITY ELECTRICAL,Expense,Housing & Utilities,Home Services
+ALLY,Expense,Financial Services,Banking Fees
+ALTICEMOBILE.COM,Expense,Housing & Utilities,Telecom & Internet
+AMAZON DIGITAL,Expense,Shopping,General Retail
+AMAZON PRIME,Expense,Subscriptions,Media & Lifestyle
+AMAZON PRIME VIDEO,Expense,Entertainment,Streaming Video
+AMAZON.COM,Expense,Shopping,General Retail
+AMC,Expense,Entertainment,Movies & Events
+AMD,Expense,Shopping,Electronics
+AMERICAN DREAM MALL,Expense,Shopping,General Retail
+ANDERSEN WINDOWS,Expense,Shopping,Home & Garden
+APNA BAZAR,Expense,Food & Dining,Groceries
+APPLE,Expense,Shopping,Electronics
+APPRAISAL FEE SERVICES,Expense,Financial Services,Lending & Loans
+ARC STUDIO,Expense,Entertainment,Arts & Hobbies
+ARCTIC AIR,Expense,Shopping,Home & Garden
+ASDA,Expense,Food & Dining,Groceries
+ASUS,Expense,Shopping,Electronics
+AT YOUR CONVENIENCE,Expense,Food & Dining,Groceries
+ATB,Expense,Financial Services,Banking Fees
+ATM Withdrawal,Income,Transfers,Bank Transfer
+AUBONPAIN,Expense,Food & Dining,Restaurants
+AUNTIE ANNE'S,Expense,Food & Dining,Bakery & Desserts
+Abagail Furniture,Expense,Shopping,Home & Garden
+Abercrombie & Fitch,Expense,Shopping,Clothing & Apparel
+Academy,Expense,Shopping,Sporting Goods
+Ace Hardware,Expense,Shopping,Home & Garden
+Acer,Expense,Shopping,Electronics
+Acorn,Expense,Technology,Cloud & Security
+Activision,Expense,Entertainment,Gaming
+Adidas,Expense,Shopping,Clothing & Apparel
+Adobe,Expense,Technology,Software & SaaS
+Advance Auto Parts,Expense,Transportation,Car Service & Parts
+Aerie,Expense,Shopping,Clothing & Apparel
+Airbnb,Expense,Travel,Hotels & Lodging
+Akamai,Expense,Technology,Software & SaaS
+Alaska Airlines,Expense,Travel,Airlines
+Albert Heijn,Expense,Food & Dining,Groceries
+Albertsons,Expense,Food & Dining,Groceries
+Ali Express,Expense,Shopping,General Retail
+Allegiant Air,Expense,Travel,Airlines
+Amazon,Expense,Shopping,General Retail
+American Airlines,Expense,Travel,Airlines
+American Eagle,Expense,Shopping,Clothing & Apparel
+Anthropologie,Expense,Shopping,Clothing & Apparel
+Apple,Expense,Shopping,Electronics
+Arby's,Expense,Food & Dining,Fast Food
+Asos,Expense,Shopping,Clothing & Apparel
+Atlassian,Expense,Technology,Software & SaaS
+Auchan,Expense,Food & Dining,Groceries
+Audible,Expense,Shopping,Books & Media
+Auntie Anne's,Expense,Food & Dining,Bakery & Desserts
+AutoZone,Expense,Transportation,Car Service & Parts
+Autodesk,Expense,Technology,Software & SaaS
+Avast,Expense,Technology,VPN & Privacy
+B&H PHOTO,Expense,Shopping,Electronics
+BAITHAKH RESTAURANT,Expense,Food & Dining,Restaurants
+BAKED BY MELISSA,Expense,Food & Dining,Bakery & Desserts
+BANK OF AMERICA,Expense,Financial Services,Banking Fees
+BARNABAS HEALTH,Expense,Health & Wellness,Medical & Dental
+BARNES & NOBLE,Expense,Shopping,Books & Media
+BAYSHORE OPHTHALMOLOGY,Expense,Health & Wellness,Medical & Dental
+BEAR MOUNTAIN,Expense,Entertainment,Amusement & Parks
+BED BATH & BEYOND,Expense,Shopping,Home & Garden
+BESTBUY,Expense,Shopping,Electronics
+BHAVANI FARMERS MARKET,Expense,Food & Dining,Groceries
+BJ's Wholesale Club,Expense,Food & Dining,Groceries
+BNL SCHOOL PICTURES,Expense,Education,Tuition & School
+BP,Expense,Transportation,Gas & Fuel
+BRILLIANT.ORG,Expense,Education,Online Learning
+BURLINGTON STORES,Expense,Shopping,Clothing & Apparel
+Balenciaga,Expense,Shopping,Clothing & Apparel
+Banana Republic,Expense,Shopping,Clothing & Apparel
+Barnes & Noble,Expense,Shopping,Books & Media
+Baskin Robbins,Expense,Food & Dining,Ice Cream & Yogurt
+Bass Pro Shops,Expense,Shopping,Sporting Goods
+Bath & Body Works,Expense,Health & Wellness,Beauty & Spa
+Beats,Expense,Shopping,Electronics
+Bed Bath & Beyond,Expense,Shopping,Home & Garden
+BenQ,Expense,Shopping,Electronics
+Best Buy,Expense,Shopping,Electronics
+Best Western,Expense,Travel,Hotels & Lodging
+Biedronka,Expense,Food & Dining,Groceries
+Big Basket,Expense,Food & Dining,Groceries
+Big C,Expense,Food & Dining,Groceries
+Billa,Expense,Food & Dining,Groceries
+Bingo,Expense,Entertainment,Movies & Events
+Birchbox,Expense,Subscriptions,Media & Lifestyle
+Birkenstock,Expense,Shopping,Clothing & Apparel
+Bob's Hobbies,Expense,Kids & Family,Toys & Activities
+Bojangles,Expense,Food & Dining,Fast Food
+Bolt,Expense,Transportation,Rideshare
+Booking.com,Expense,Travel,Travel Booking
+Books-A-Million,Expense,Shopping,Books & Media
+Boots,Expense,Health & Wellness,Pharmacy
+Borg Warner,Expense,Technology,Hardware
+Bose,Expense,Shopping,Electronics
+Boulangerie Baguette Magique,Expense,Food & Dining,Bakery & Desserts
+Boulangerie Fougasse,Expense,Food & Dining,Bakery & Desserts
+Boulangerie Le Petit Pain,Expense,Food & Dining,Bakery & Desserts
+Boulangerie Pain au Chocolat,Expense,Food & Dining,Bakery & Desserts
+Boulangerie Pain aux Cereales,Expense,Food & Dining,Bakery & Desserts
+Boulangerie Pain aux Figues,Expense,Food & Dining,Bakery & Desserts
+Boulangerie Pain aux Graines,Expense,Food & Dining,Bakery & Desserts
+Boulangerie Pain aux Noix,Expense,Food & Dining,Bakery & Desserts
+Boulangerie Pain aux Olives,Expense,Food & Dining,Bakery & Desserts
+Boulangerie Pain aux Raisins,Expense,Food & Dining,Bakery & Desserts
+Boulangerie Pain de Campagne,Expense,Food & Dining,Bakery & Desserts
+Boulangerie Pain de Seigle,Expense,Food & Dining,Bakery & Desserts
+Boulangerie Patisserie Artisanale,Expense,Food & Dining,Bakery & Desserts
+Bratwurst Haus,Expense,Food & Dining,Restaurants
+Bravo,Expense,Food & Dining,Groceries
+BritBox,Expense,Entertainment,Streaming Video
+Broadway,Expense,Entertainment,Movies & Events
+Bulgari,Expense,Shopping,Clothing & Apparel
+Burger Bliss,Expense,Food & Dining,Fast Food
+Burger King,Expense,Food & Dining,Fast Food
+CARDMART,Expense,Donations & Gifts,Gifts & Cards
+CELINES SPA,Expense,Health & Wellness,Beauty & Spa
+CHAMPION,Expense,Shopping,Clothing & Apparel
+CHANGE.ORG,Expense,Donations & Gifts,Charity & Donations
+CHARRITOS,Expense,Food & Dining,Restaurants
+CHEESECAKE FACTORY,Expense,Food & Dining,Restaurants
+CHILDREN'S MUSEUM,Expense,Entertainment,Amusement & Parks
+CHIPOTLE,Expense,Food & Dining,Fast Food
+CINEMARK,Expense,Entertainment,Movies & Events
+CINNABON-CARVEL,Expense,Food & Dining,Bakery & Desserts
+CIRCLE CHEVROLET,Expense,Transportation,Car Service & Parts
+CITGO,Expense,Transportation,Gas & Fuel
+CLAIRE'S,Expense,Shopping,General Retail
+CMS,Income,Transfers,Deposit
+CODE NINJAS,Expense,Education,Tuition & School
+COLD STONE,Expense,Food & Dining,Ice Cream & Yogurt
+COMFORT INNS,Expense,Travel,Hotels & Lodging
+CONAD,Expense,Food & Dining,Groceries
+CONDOCERTS,Expense,Entertainment,Movies & Events
+CONOCO,Expense,Transportation,Gas & Fuel
+COSTCO,Expense,Food & Dining,Groceries
+COSTCO GAS,Expense,Transportation,Gas & Fuel
+COURTYARD BY MARRIOT,Expense,Travel,Hotels & Lodging
+CRAYOLA EXPERIENCE,Expense,Entertainment,Amusement & Parks
+CRI GENETICS,Expense,Health & Wellness,Health Products
+CRYSTAL SPRINGS,Expense,Shopping,Home & Garden
+CTM GROUP INC.,Income,Transfers,Deposit
+CVS,Expense,Health & Wellness,Pharmacy
+Cabify,Expense,Transportation,Rideshare
+Canada Goose,Expense,Shopping,Clothing & Apparel
+Canon,Expense,Shopping,Electronics
+Canva,Expense,Technology,Software & SaaS
+Careem,Expense,Transportation,Rideshare
+Carl's Jr.,Expense,Food & Dining,Fast Food
+Carrefour,Expense,Food & Dining,Groceries
+Cartier,Expense,Shopping,Clothing & Apparel
+Casey's General Store,Expense,Food & Dining,Groceries
+Caviar,Expense,Food & Dining,Food Delivery
+Chedraui,Expense,Food & Dining,Groceries
+Chegg,Expense,Education,Online Learning
+Chevron,Expense,Transportation,Gas & Fuel
+Chewy,Expense,Shopping,Pet Supplies
+Chick-fil-A,Expense,Food & Dining,Fast Food
+Chipotle,Expense,Food & Dining,Fast Food
+Cinemax,Expense,Entertainment,Streaming Video
+Cinnabon,Expense,Food & Dining,Bakery & Desserts
+Circle K,Expense,Food & Dining,Groceries
+Cisco,Expense,Technology,Software & SaaS
+Citgo,Expense,Transportation,Gas & Fuel
+Clearbanks,Expense,Financial Services,Banking Fees
+Coach,Expense,Shopping,Clothing & Apparel
+Coffee Haven,Expense,Food & Dining,Coffee & Tea
+Cold Stone Creamery,Expense,Food & Dining,Ice Cream & Yogurt
+Cold Storage,Expense,Food & Dining,Groceries
+Coles,Expense,Food & Dining,Groceries
+Comcast,Expense,Housing & Utilities,Utilities
+Conoco,Expense,Transportation,Gas & Fuel
+Coop,Expense,Food & Dining,Groceries
+Corner Bakery Cafe,Expense,Food & Dining,Restaurants
+Costco,Expense,Shopping,General Retail
+Coto,Expense,Food & Dining,Groceries
+Countdown,Expense,Food & Dining,Groceries
+Cracker Barrel,Expense,Food & Dining,Restaurants
+Criterion Channel,Expense,Entertainment,Streaming Video
+Crocs,Expense,Shopping,Clothing & Apparel
+Crunchyroll,Expense,Entertainment,Streaming Video
+Culver's,Expense,Food & Dining,Fast Food
+Culvers,Expense,Food & Dining,Fast Food
+Cumberland Farms,Expense,Food & Dining,Groceries
+Curiosity Stream,Expense,Entertainment,Streaming Video
+Currywurst Corner,Expense,Food & Dining,Restaurants
+CyberGhost,Expense,Technology,VPN & Privacy
+CyberGhost VPN,Expense,Technology,VPN & Privacy
+D'BELLA SALON,Expense,Health & Wellness,Beauty & Spa
+DAVIDsTEA,Expense,Food & Dining,Coffee & Tea
+DCH ACADEMY HONDA,Expense,Transportation,Car Service & Parts
+DICK'S CLOTHING & SPORT,Expense,Shopping,Sporting Goods
+DIOCESE OF TRENTON,Expense,Education,Tuition & School
+DISNEY PLUS,Expense,Entertainment,Streaming Video
+DIVINE TOUCH CLEANERS,Expense,Housing & Utilities,Home Services
+DJI,Expense,Shopping,Electronics
+DOLLAR GENERAL,Expense,Shopping,General Retail
+DOLLAR TREE,Expense,Shopping,General Retail
+DOLLARS N THINGS,Expense,Shopping,General Retail
+DOLLARTREE,Expense,Shopping,General Retail
+DOMINO'S,Expense,Food & Dining,Fast Food
+DOORDASH CROWN FRIED CHICKEN,Expense,Food & Dining,Food Delivery
+DOORDASH DUNKIN,Expense,Food & Dining,Coffee & Tea
+DOORDASH KANDAHAR,Expense,Food & Dining,Restaurants
+DOORDASH KHOKHA,Expense,Food & Dining,Restaurants
+DOORDASH MCDONALDS,Expense,Food & Dining,Restaurants
+DOORDASH RIFFYS KITCHEN,Expense,Food & Dining,Restaurants
+DOORDASH ROUND PIE PIZZA,Expense,Food & Dining,Restaurants
+DS SERVICES,Expense,Shopping,Home & Garden
+DUNKIN,Expense,Food & Dining,Coffee & Tea
+DWAYNES PHOTO,Expense,Personal Services,Photography
+Dairy Queen,Expense,Food & Dining,Ice Cream & Yogurt
+Dashlane,Expense,Technology,VPN & Privacy
+Datorama,Expense,Technology,Software & SaaS
+Deliveroo,Expense,Food & Dining,Food Delivery
+Dell,Expense,Shopping,Electronics
+Delta Air Lines,Expense,Travel,Airlines
+DiDi,Expense,Transportation,Rideshare
+Dick's Sporting Goods,Expense,Shopping,Sporting Goods
+Dior,Expense,Shopping,Clothing & Apparel
+Discord,Expense,Entertainment,Gaming
+Discovery+,Expense,Entertainment,Streaming Video
+Disney+,Expense,Entertainment,Streaming Video
+DocuSign,Expense,Technology,Software & SaaS
+Dolce & Gabbana,Expense,Shopping,Clothing & Apparel
+Dollar General,Expense,Shopping,General Retail
+Dollar Tree,Expense,Shopping,General Retail
+Domino's,Expense,Food & Dining,Fast Food
+DoorDash,Expense,Food & Dining,Food Delivery
+Dropbox,Expense,Technology,Software & SaaS
+Dunkin' Donuts,Expense,Food & Dining,Coffee & Tea
+E-Mart,Expense,Food & Dining,Groceries
+ECOSHIELD,Expense,Housing & Utilities,Home Services
+EDEKA,Expense,Food & Dining,Groceries
+EDMENTUM,Expense,Education,Tuition & School
+EMIR HALAL,Expense,Food & Dining,Groceries
+ESCAPOLOGY,Expense,Entertainment,Amusement & Parks
+ESPN,Expense,Entertainment,Streaming Video
+ETIHAD AIRWAYS,Expense,Travel,Airlines
+ETSY,Expense,Shopping,General Retail
+EUVEXIA,Expense,Health & Wellness,Health Products
+EXL PREP,Expense,Education,Tuition & School
+EXPEDIA,Expense,Travel,Travel Booking
+EXXON MOBIL,Expense,Transportation,Gas & Fuel
+Einstein Bros Bagels,Expense,Food & Dining,Restaurants
+El Pollo Loco,Expense,Food & Dining,Fast Food
+Electronic Arts,Expense,Entertainment,Gaming
+Etsy,Expense,Shopping,General Retail
+Evernote,Expense,Technology,Software & SaaS
+Exito,Expense,Food & Dining,Groceries
+Expedia,Expense,Travel,Travel Booking
+Express,Expense,Shopping,Clothing & Apparel
+ExpressVPN,Expense,Technology,VPN & Privacy
+Extra,Expense,Food & Dining,Groceries
+Exxon Mobil,Expense,Transportation,Gas & Fuel
+FAMILY DOLLAR,Expense,Shopping,General Retail
+FANTASY RIDE,Expense,Entertainment,Amusement & Parks
+FATTY15,Expense,Health & Wellness,Health Products
+FEDEX,Expense,Personal Services,Printing & Shipping
+FIDELITY,Expense,Financial Services,Banking Fees
+FILA,Expense,Shopping,Clothing & Apparel
+FIT N FEET,Expense,Shopping,Clothing & Apparel
+FIVE BELOW,Expense,Shopping,General Retail
+FLAME KABOB,Expense,Food & Dining,Restaurants
+FLYNN & O HARA,Expense,Shopping,Clothing & Apparel
+FOREVER LIVING,Expense,Health & Wellness,Health Products
+FRAN LEBOWITZ,Expense,Entertainment,Movies & Events
+"FRANK LIPMAN, M.D.",Expense,Health & Wellness,Medical & Dental
+FRIENDLY,Expense,Food & Dining,Restaurants
+FULLSCRIPT,Expense,Health & Wellness,Health Products
+FUN KIDS TRAIN,Expense,Entertainment,Amusement & Parks
+FUSION REHABILITATIVE,Expense,Health & Wellness,Medical & Dental
+FairPrice,Expense,Food & Dining,Groceries
+Fairprice,Expense,Food & Dining,Groceries
+Falafel Feast,Expense,Food & Dining,Restaurants
+Family Dollar,Expense,Shopping,General Retail
+FamilyMart,Expense,Food & Dining,Groceries
+Fendi,Expense,Shopping,Clothing & Apparel
+Ferrari Store,Expense,Shopping,Clothing & Apparel
+Ferrero Rocher,Expense,Food & Dining,Snacks & Drinks
+Firehouse Subs,Expense,Food & Dining,Fast Food
+Fish and Chips,Expense,Food & Dining,Restaurants
+Five Guys,Expense,Food & Dining,Fast Food
+Food 4 Less,Expense,Food & Dining,Groceries
+Food Lion,Expense,Food & Dining,Groceries
+Food Truck,Expense,Food & Dining,Restaurants
+Foodora,Expense,Food & Dining,Food Delivery
+Foodpanda,Expense,Food & Dining,Food Delivery
+Foot Locker,Expense,Shopping,Clothing & Apparel
+Ford,Expense,Shopping,Electronics
+Forever 21,Expense,Shopping,Clothing & Apparel
+Fossil,Expense,Shopping,Clothing & Apparel
+Four Seasons,Expense,Travel,Hotels & Lodging
+Frontier Airlines,Expense,Travel,Airlines
+Frozen Yogurt,Expense,Food & Dining,Ice Cream & Yogurt
+Fubo,Expense,Entertainment,Streaming Video
+Funimation,Expense,Entertainment,Streaming Video
+Føtex,Expense,Food & Dining,Groceries
+GEICO,Expense,Housing & Utilities,Insurance
+GERMAN DONER KEBAB,Expense,Food & Dining,Fast Food
+GERTRUDE HAWK CHOCOLATE,Expense,Food & Dining,Snacks & Drinks
+GIRL SCOUTS,Expense,Donations & Gifts,Charity & Donations
+GLOBAL PLUMBING,Expense,Housing & Utilities,Home Services
+GLOW EXPRESS CAR WASH,Expense,Housing & Utilities,Home Services
+GOLDIE LOX,Expense,Food & Dining,Fast Food
+GOOD FOOD BY UZMA,Expense,Food & Dining,Restaurants
+GOOGLE,Expense,Technology,Software & SaaS
+GOOGLE YOUTUBE,Expense,Entertainment,Streaming Video
+GRAMMARLY,Expense,Technology,Software & SaaS
+GRUBHUB GOOD FOOD BY UZMA,Expense,Food & Dining,Restaurants
+GRUBHUB JERSEY MIKES,Expense,Food & Dining,Restaurants
+GRUBHUB MCDONALDS,Expense,Food & Dining,Restaurants
+GRUBHUB ROUND PIE PIZZA,Expense,Food & Dining,Restaurants
+GUARDIAN TECHNOLOGIES,Expense,Shopping,Home & Garden
+GUM.CO,Expense,Subscriptions,Media & Lifestyle
+GYRO,Expense,Food & Dining,Restaurants
+GameStop,Expense,Entertainment,Gaming
+Gamestop,Expense,Entertainment,Gaming
+Gap,Expense,Shopping,Clothing & Apparel
+Gelateria Artigianale,Expense,Food & Dining,Ice Cream & Yogurt
+Gelato Dreams,Expense,Food & Dining,Ice Cream & Yogurt
+Gett,Expense,Transportation,Rideshare
+GhostPath,Expense,Technology,VPN & Privacy
+GhostVPN,Expense,Technology,VPN & Privacy
+Giant,Expense,Food & Dining,Groceries
+Giant Eagle,Expense,Food & Dining,Groceries
+GitHub,Expense,Technology,Software & SaaS
+Globus,Expense,Food & Dining,Groceries
+Glovo,Expense,Food & Dining,Food Delivery
+GoDaddy,Expense,Technology,Software & SaaS
+Gojek,Expense,Transportation,Rideshare
+Goodreads,Expense,Shopping,Books & Media
+Google,Expense,Technology,Software & SaaS
+Grab,Expense,Transportation,Rideshare
+Grammarly,Expense,Technology,Software & SaaS
+Grand Hyatt,Expense,Travel,Hotels & Lodging
+Groupon,Expense,Shopping,Online Marketplace
+GrubHub,Expense,Food & Dining,Food Delivery
+Grubhub,Expense,Food & Dining,Food Delivery
+Gucci,Expense,Shopping,Clothing & Apparel
+Gulfstream Park,Expense,Entertainment,Sports & Recreation
+Gyros Galore,Expense,Food & Dining,Restaurants
+H & M,Expense,Shopping,Clothing & Apparel
+H&M,Expense,Shopping,Clothing & Apparel
+H-E-B,Expense,Food & Dining,Groceries
+HALAL EATZ,Expense,Food & Dining,Restaurants
+HAMPTON INNS,Expense,Travel,Hotels & Lodging
+HBO,Expense,Entertainment,Streaming Video
+HDFC BANK LTD.,Expense,Financial Services,Banking Fees
+HEAD OVER HEELS,Expense,Health & Wellness,Beauty & Spa
+HERITAGE AMUSEMENT,Expense,Entertainment,Amusement & Parks
+HERSHEY PARK,Expense,Entertainment,Amusement & Parks
+HOCH ORTHODONTICS,Expense,Health & Wellness,Medical & Dental
+HOLISTIC HEALTH LABS,Expense,Health & Wellness,Health Products
+HOME DEPOT,Expense,Shopping,Home & Garden
+HOMEGOODS,Expense,Shopping,General Retail
+HONDA,Expense,Transportation,Car Service & Parts
+HP,Expense,Shopping,Electronics
+HUMA BEAUTY SALON,Expense,Health & Wellness,Beauty & Spa
+HYUNDAI BLUE LINK,Expense,Transportation,Car Service & Parts
+HYUNDAI SERVICE,Expense,Transportation,Car Service & Parts
+HandyTools,Expense,Shopping,Home & Garden
+Hannaford,Expense,Food & Dining,Groceries
+Harris Teeter,Expense,Food & Dining,Groceries
+Hawaiian Airlines,Expense,Travel,Airlines
+Hemköp,Expense,Food & Dining,Groceries
+Hertz,Expense,Travel,Car Rental
+Hibbett Sports,Expense,Shopping,Sporting Goods
+HideMyAss,Expense,Technology,VPN & Privacy
+Hilton,Expense,Travel,Hotels & Lodging
+Hilton Garden Inn,Expense,Travel,Hotels & Lodging
+Hobby Store,Expense,Kids & Family,Toys & Activities
+Holiday Station Stores,Expense,Food & Dining,Groceries
+Hollister,Expense,Shopping,Clothing & Apparel
+Home Depot,Expense,Shopping,Home & Garden
+HotSpot Shield,Expense,Technology,VPN & Privacy
+Hukn,Income,Transfers,Deposit
+Hulu,Expense,Entertainment,Streaming Video
+Hy-Vee,Expense,Food & Dining,Groceries
+Hyatt,Expense,Travel,Hotels & Lodging
+Hyatt Regency,Expense,Travel,Hotels & Lodging
+IBBY'S FALAFEL,Expense,Food & Dining,Restaurants
+IBM,Expense,Technology,Software & SaaS
+ICA,Expense,Food & Dining,Groceries
+ICE CREAM MONSTER,Expense,Food & Dining,Ice Cream & Yogurt
+ICECREAM TRUCK,Expense,Food & Dining,Ice Cream & Yogurt
+ICOM,Expense,Technology,Hardware
+ICY MELON,Expense,Food & Dining,Ice Cream & Yogurt
+IGA,Expense,Food & Dining,Groceries
+IHOP,Expense,Food & Dining,Restaurants
+IKEA,Expense,Shopping,Home & Garden
+IMAMIA MEDICS,Expense,Health & Wellness,Medical & Dental
+IPVanish,Expense,Technology,VPN & Privacy
+IXL,Expense,Education,Online Learning
+In-N-Out Burger,Expense,Food & Dining,Fast Food
+Indomaret,Expense,Food & Dining,Groceries
+Ingles Market,Expense,Food & Dining,Groceries
+Instacart,Expense,Food & Dining,Food Delivery
+Intel,Expense,Shopping,Electronics
+Intercontinental,Expense,Travel,Hotels & Lodging
+Intermarché,Expense,Food & Dining,Groceries
+Intuit,Expense,Technology,Software & SaaS
+J & G SALON,Expense,Health & Wellness,Beauty & Spa
+J. Crew,Expense,Shopping,Clothing & Apparel
+J.Crew,Expense,Shopping,Clothing & Apparel
+JCPenney,Expense,Shopping,Clothing & Apparel
+JENKINSON'S AQUARIUM,Expense,Entertainment,Amusement & Parks
+JENKINSON'S CANDY,Expense,Food & Dining,Fast Food
+JENKINSON'S PAVILLION,Expense,Entertainment,Amusement & Parks
+JERSEY COAST NEPHROLOGY,Expense,Health & Wellness,Medical & Dental
+JIN SOY,Expense,Food & Dining,Restaurants
+JOSTENS INC.,Expense,Education,Tuition & School
+JOYCE CREAMERY,Expense,Food & Dining,Ice Cream & Yogurt
+JUICE AND DESSERT,Expense,Food & Dining,Snacks & Drinks
+JUSTGIVING.COM,Expense,Donations & Gifts,Charity & Donations
+Jaans Pizza,Expense,Food & Dining,Fast Food
+Jack in the Box,Expense,Food & Dining,Fast Food
+Jamba Juice,Expense,Food & Dining,Snacks & Drinks
+Jason's Deli,Expense,Food & Dining,Restaurants
+Jerico's Dairy,Expense,Shopping,General Retail
+Jerry's PC Enterprise,Expense,Shopping,General Retail
+Jersey Mike's,Expense,Food & Dining,Restaurants
+JetBlue,Expense,Travel,Airlines
+JetBrains,Expense,Technology,Software & SaaS
+Jewel-Osco,Expense,Food & Dining,Groceries
+Jimmy John's,Expense,Food & Dining,Fast Food
+Jumbo,Expense,Food & Dining,Groceries
+Jumia Food,Expense,Food & Dining,Food Delivery
+Just Eat,Expense,Food & Dining,Food Delivery
+KABAB PARADISE,Expense,Food & Dining,Restaurants
+KANDAHAR,Expense,Food & Dining,Restaurants
+KARAHI HOUSE,Expense,Food & Dining,Restaurants
+KENDALL HUNT PUBLISHING,Expense,Education,Books & Supplies
+KFC,Expense,Food & Dining,Fast Food
+KHAN ACADEMY,Expense,Education,Online Learning
+KHANACADEMY,Expense,Education,Online Learning
+KIDS FOOT LOCKER,Expense,Shopping,Clothing & Apparel
+KIDZDENT,Expense,Health & Wellness,Medical & Dental
+KINDLE,Expense,Subscriptions,Media & Lifestyle
+KING SWEETS,Expense,Food & Dining,Snacks & Drinks
+KOHL'S,Expense,Shopping,Clothing & Apparel
+KUUQA Kids Art,Expense,Kids & Family,Toys & Activities
+Kakao T,Expense,Transportation,Rideshare
+Kaufland,Expense,Food & Dining,Groceries
+Kebab King Istanbul,Expense,Food & Dining,Restaurants
+Kohl's,Expense,Shopping,Clothing & Apparel
+Krispy Kreme,Expense,Food & Dining,Fast Food
+Kroger,Expense,Food & Dining,Groceries
+Kwik Trip,Expense,Food & Dining,Groceries
+Kwik-E-Mart,Expense,Food & Dining,Groceries
+L.L.Bean,Expense,Shopping,Clothing & Apparel
+LA BON BAKE SHOPPES,Expense,Food & Dining,Bakery & Desserts
+LA CONTESSA,Expense,Food & Dining,Restaurants
+LA FITNESS,Expense,Health & Wellness,Fitness & Gym
+LAAM TECHNOLOGIES,Expense,Entertainment,Movies & Events
+LAHORE RESTAURANT,Expense,Food & Dining,Restaurants
+LEARNER.COM,Expense,Education,Online Learning
+LEETCODE.COM,Expense,Education,Online Learning
+LEGOLAND DISCOVERY,Expense,Entertainment,Amusement & Parks
+LEVELS,Expense,Health & Wellness,Health Products
+LG,Expense,Shopping,Electronics
+LIBERTY SCIENCE CENTER,Expense,Entertainment,Amusement & Parks
+LMXAC,Income,Transfers,Deposit
+LOTTE PLAZA,Expense,Food & Dining,Groceries
+LOVELY,Expense,Shopping,General Retail
+LOWES,Expense,Shopping,Home & Garden
+LS SKATE PRO INC.,Expense,Shopping,Sporting Goods
+LULU.COM,Expense,Personal Services,Printing & Shipping
+LUMINOCITY,Expense,Entertainment,Amusement & Parks
+LastPass,Expense,Technology,VPN & Privacy
+Lawson,Expense,Food & Dining,Groceries
+Leclerc,Expense,Food & Dining,Groceries
+Lenovo,Expense,Shopping,Electronics
+Lidl,Expense,Food & Dining,Groceries
+LinkedIn,Expense,Technology,Software & SaaS
+Little Caesars,Expense,Food & Dining,Fast Food
+Loblaws,Expense,Food & Dining,Groceries
+Local Coffee Brewery,Expense,Food & Dining,Coffee & Tea
+Lotte Mart,Expense,Food & Dining,Groceries
+Louis Vuitton,Expense,Shopping,Clothing & Apparel
+Love's Travel Stops,Expense,Transportation,Gas & Fuel
+Lowe's,Expense,Shopping,Home & Garden
+Lulu Hypermarket,Expense,Food & Dining,Groceries
+Lululemon,Expense,Shopping,Clothing & Apparel
+Lyft,Expense,Transportation,Rideshare
+M CITY DOLLAR,Expense,Shopping,General Retail
+MACSALES.COM,Expense,Shopping,Electronics
+MARS HALAL,Expense,Food & Dining,Groceries
+MARSHALLS,Expense,Shopping,General Retail
+MASSAGE ENVY,Expense,Health & Wellness,Beauty & Spa
+MASSAGELUXE,Expense,Health & Wellness,Beauty & Spa
+MAZA RESTAURANTS,Expense,Food & Dining,Restaurants
+MAZUMDER ENTERTAINMENT,Expense,Entertainment,Movies & Events
+MCDONALD'S,Expense,Food & Dining,Fast Food
+MDC PEETS,Expense,Food & Dining,Coffee & Tea
+MDC WENDYS,Expense,Food & Dining,Fast Food
+MDM JERRYS,Expense,Food & Dining,Fast Food
+MEAL MAGIC,Expense,Food & Dining,Restaurants
+MICHAELS,Expense,Shopping,General Retail
+MIDDLESEX COUNTY COLLEGE,Expense,Education,Tuition & School
+MINISO,Expense,Shopping,General Retail
+MINUTE CLINIC,Expense,Health & Wellness,Medical & Dental
+MISEN,Expense,Subscriptions,Media & Lifestyle
+MONMOUTH COUNTY PARK,Expense,Entertainment,Sports & Recreation
+MOTLEY.FOOL.COM,Expense,Financial Services,Investment
+MSI,Expense,Shopping,Electronics
+MUBI,Expense,Entertainment,Streaming Video
+MYQ,Expense,Technology,Software & SaaS
+Macy's,Expense,Shopping,Clothing & Apparel
+Magnit,Expense,Food & Dining,Groceries
+Mandarin Oriental,Expense,Travel,Hotels & Lodging
+Mango,Expense,Shopping,Clothing & Apparel
+Marathon,Expense,Transportation,Gas & Fuel
+Marriott,Expense,Travel,Hotels & Lodging
+Marshalls,Expense,Shopping,General Retail
+Mattel,Expense,Shopping,Electronics
+Maverik,Expense,Transportation,Gas & Fuel
+Maxi,Expense,Food & Dining,Groceries
+McAlister's Deli,Expense,Food & Dining,Restaurants
+McDonald's,Expense,Food & Dining,Fast Food
+Meijer,Expense,Food & Dining,Groceries
+Menchie's,Expense,Food & Dining,Ice Cream & Yogurt
+Mercadona,Expense,Food & Dining,Groceries
+Metro,Expense,Food & Dining,Groceries
+Michaels,Expense,Shopping,General Retail
+Microsoft,Expense,Shopping,Electronics
+Mighty Pizza,Expense,Food & Dining,Fast Food
+Migros,Expense,Food & Dining,Groceries
+Ministop,Expense,Food & Dining,Groceries
+Moe's Southwest Grill,Expense,Food & Dining,Fast Food
+Monoprix,Expense,Food & Dining,Groceries
+Morrisons,Expense,Food & Dining,Groceries
+Mpon,Income,Transfers,Deposit
+Mullvad,Expense,Technology,VPN & Privacy
+Mytaxi,Expense,Transportation,Rideshare
+N THAI,Expense,Food & Dining,Restaurants
+NAYAX VENDING,Expense,Food & Dining,Snacks & Drinks
+NBPA,Income,Transfers,Deposit
+NETFLIX.COM,Expense,Entertainment,Streaming Video
+NEW JERSEY E-ZPASS,Expense,Transportation,Public Transit
+NEW JERSEY NATURAL GAS,Expense,Housing & Utilities,Utilities
+NEW JERSEY TITANS HOCKEY,Expense,Entertainment,Sports & Recreation
+NFL Shop,Expense,Entertainment,Sports & Recreation
+NJ GOV,Expense,Personal Services,Gov & DMV
+NJ MOTOR VEHICLE,Expense,Personal Services,Gov & DMV
+NJ TRANSIT,Expense,Transportation,Public Transit
+NOMURA,Expense,Entertainment,Movies & Events
+NOMURA CAF�,Expense,Entertainment,Movies & Events
+NORDIC PURE,Expense,Shopping,Home & Garden
+NRS Tint Shop,Expense,Transportation,Car Service & Parts
+NVIDIA,Expense,Shopping,Electronics
+NYC FILM LAB,Expense,Entertainment,Movies & Events
+Netflix,Expense,Entertainment,Streaming Video
+Netgear,Expense,Shopping,Electronics
+Netto,Expense,Food & Dining,Groceries
+New Balance,Expense,Shopping,Clothing & Apparel
+New York Times,Expense,Subscriptions,Media & Lifestyle
+Nike,Expense,Shopping,Clothing & Apparel
+Nintendo,Expense,Entertainment,Gaming
+Noodles & Company,Expense,Food & Dining,Fast Food
+NordVPN,Expense,Technology,VPN & Privacy
+Nordstrom,Expense,Shopping,Clothing & Apparel
+OLD BRIDGE PARK,Expense,Entertainment,Sports & Recreation
+OLD NAVY,Expense,Shopping,Clothing & Apparel
+OPENAI,Expense,Technology,Software & SaaS
+OPTIMUM,Expense,Housing & Utilities,Utilities
+ORAL SURGERY GROUP,Expense,Health & Wellness,Medical & Dental
+OTHER WORLD COMPUTING,Expense,Shopping,Electronics
+OURA RING INC.,Expense,Health & Wellness,Health Products
+OXFORD CONTRACTING,Expense,Housing & Utilities,Home Services
+OXXO,Expense,Food & Dining,Groceries
+Office Depot,Expense,Shopping,Office Supplies
+Oh Happy Day,Expense,Entertainment,Movies & Events
+Ola,Expense,Transportation,Rideshare
+Old Navy,Expense,Shopping,Clothing & Apparel
+Olive Garden,Expense,Food & Dining,Restaurants
+Omega,Expense,Shopping,Clothing & Apparel
+Omron,Expense,Health & Wellness,Health Products
+Oracle,Expense,Technology,Software & SaaS
+Orange Leaf,Expense,Food & Dining,Ice Cream & Yogurt
+Overstock,Expense,Shopping,Online Marketplace
+PAPA JOHN'S,Expense,Food & Dining,Fast Food
+PARTY CITY,Expense,Shopping,Discount Stores
+PATEL BROTHERS,Expense,Food & Dining,Groceries
+PAYMENT,Income,Transfers,Bank Transfer
+PAYPAL JAFARIA SCHOOOL,Expense,Education,Tuition & School
+PAYPAL WALMART,Expense,Shopping,General Retail
+PEP BOYS,Expense,Transportation,Car Service & Parts
+PHILLIPS 66,Expense,Transportation,Gas & Fuel
+PICTURE PEOPLE,Expense,Personal Services,Photography
+PLAYLAND,Expense,Entertainment,Amusement & Parks
+POTATO PALOOZA,Expense,Food & Dining,Snacks & Drinks
+PRESCHOOL SMILES,Expense,Kids & Family,Childcare
+PRIMO WATER,Expense,Shopping,Home & Garden
+PUMA,Expense,Shopping,Clothing & Apparel
+Paella Paradise,Expense,Food & Dining,Restaurants
+Panda,Expense,Food & Dining,Fast Food
+Panda Express,Expense,Food & Dining,Fast Food
+Pandora,Expense,Shopping,Clothing & Apparel
+Panera Bread,Expense,Food & Dining,Restaurants
+Papa John's,Expense,Food & Dining,Fast Food
+Paramount+,Expense,Entertainment,Streaming Video
+Park Hyatt,Expense,Travel,Hotels & Lodging
+ParknShop,Expense,Food & Dining,Groceries
+Party City,Expense,Shopping,Discount Stores
+Pasta Paradise,Expense,Food & Dining,Restaurants
+Patisserie Chocolaterie Delice,Expense,Food & Dining,Bakery & Desserts
+Patisserie Chouquette,Expense,Food & Dining,Bakery & Desserts
+Patisserie Eclair,Expense,Food & Dining,Bakery & Desserts
+Patisserie Financier,Expense,Food & Dining,Bakery & Desserts
+Patisserie Gateaux Divins,Expense,Food & Dining,Bakery & Desserts
+Patisserie Macaron,Expense,Food & Dining,Bakery & Desserts
+Patisserie Madeleine,Expense,Food & Dining,Bakery & Desserts
+Patisserie Mille-Feuille,Expense,Food & Dining,Bakery & Desserts
+Patisserie Opera Cake,Expense,Food & Dining,Bakery & Desserts
+Patisserie Palmier,Expense,Food & Dining,Bakery & Desserts
+Patisserie Paris-Brest,Expense,Food & Dining,Bakery & Desserts
+Patisserie Religieuse,Expense,Food & Dining,Bakery & Desserts
+Patisserie Saint Honore,Expense,Food & Dining,Bakery & Desserts
+Peacock,Expense,Entertainment,Streaming Video
+Peet's Coffee,Expense,Food & Dining,Coffee & Tea
+Peloton,Expense,Health & Wellness,Fitness & Gym
+Peninsula Hotel,Expense,Travel,Hotels & Lodging
+Perekrestok,Expense,Food & Dining,Groceries
+PetSmart,Expense,Shopping,Pet Supplies
+Petco,Expense,Shopping,Pet Supplies
+Phillips 66,Expense,Transportation,Gas & Fuel
+Philo,Expense,Entertainment,Streaming Video
+Pick n Pay,Expense,Food & Dining,Groceries
+Pierogi Palace,Expense,Food & Dining,Restaurants
+Pilot Travel,Expense,Transportation,Gas & Fuel
+Pinkberry,Expense,Food & Dining,Ice Cream & Yogurt
+Pizza Hut,Expense,Food & Dining,Fast Food
+Pizza Paradise,Expense,Food & Dining,Fast Food
+PlayStation,Expense,Entertainment,Gaming
+Plex,Expense,Entertainment,Streaming Video
+Popeyes,Expense,Food & Dining,Fast Food
+Positive Bakery,Expense,Food & Dining,Bakery & Desserts
+Postmates,Expense,Food & Dining,Food Delivery
+Potbelly Sandwich Shop,Expense,Food & Dining,Restaurants
+Pottery Barn,Expense,Shopping,Home & Garden
+Poutine Paradise,Expense,Food & Dining,Restaurants
+Prada,Expense,Shopping,Clothing & Apparel
+Price Chopper,Expense,Food & Dining,Groceries
+Prime Video,Expense,Entertainment,Streaming Video
+Private Internet Access,Expense,Technology,VPN & Privacy
+PrivateVPN,Expense,Technology,VPN & Privacy
+Proactive,Expense,Subscriptions,Media & Lifestyle
+ProtonMail,Expense,Technology,Software & SaaS
+ProtonVPN,Expense,Technology,VPN & Privacy
+Publix,Expense,Food & Dining,Groceries
+PureVPN,Expense,Technology,VPN & Privacy
+Pão de Açúcar,Expense,Food & Dining,Groceries
+QATAR AIRWAYS,Expense,Travel,Airlines
+QUEST DIAGNOSTICS,Expense,Health & Wellness,Medical & Dental
+QUICK CHEK,Expense,Food & Dining,Groceries
+Qualcomm,Expense,Shopping,Electronics
+QuikTrip,Expense,Transportation,Gas & Fuel
+Quiznos,Expense,Food & Dining,Fast Food
+R Bailey,Income,Transfers,Deposit
+RAAVI NAAN KABAB,Expense,Food & Dining,Restaurants
+RACE REGISTER DONATIONS,Expense,Donations & Gifts,Charity & Donations
+RAVE,Expense,Entertainment,Movies & Events
+RAZ SPARDHA LEARNINGS,Expense,Education,Tuition & School
+RCCA,Income,Transfers,Deposit
+RCMH FOOD & MERCH,Expense,Entertainment,Movies & Events
+REAL FRUIT BUBBLE,Expense,Food & Dining,Snacks & Drinks
+REFRESH TEA,Expense,Food & Dining,Coffee & Tea
+RENTERS/CONDO INSURANCE,Expense,Housing & Utilities,Insurance
+REWE,Expense,Food & Dining,Groceries
+REYDEL VOLKSWAGEN,Expense,Transportation,Car Service & Parts
+RFC MENLO PARK,Income,Transfers,Deposit
+RIFFYS KITCHEN,Expense,Food & Dining,Restaurants
+RMG PEDIATRICS,Expense,Health & Wellness,Medical & Dental
+ROBAAZ,Expense,Food & Dining,Groceries
+ROCK N AIR ADVENTURE,Expense,Entertainment,Amusement & Parks
+ROSETTA BAKERY,Expense,Food & Dining,Bakery & Desserts
+ROUND PIE PIZZA,Expense,Food & Dining,Fast Food
+ROYAL CHICKEN,Expense,Food & Dining,Fast Food
+RTIC Outdoors,Expense,Shopping,Sporting Goods
+RaceTrac,Expense,Transportation,Gas & Fuel
+Raising Cane's,Expense,Food & Dining,Fast Food
+Raising Canes,Expense,Food & Dining,Fast Food
+Ralph Lauren,Expense,Shopping,Clothing & Apparel
+Ralphs,Expense,Food & Dining,Groceries
+RangeShop,Expense,Shopping,Home & Garden
+Rappi,Expense,Food & Dining,Food Delivery
+Razer,Expense,Shopping,Electronics
+Red Mango,Expense,Food & Dining,Ice Cream & Yogurt
+Reebok,Expense,Shopping,Clothing & Apparel
+Rema 1000,Expense,Food & Dining,Groceries
+Revolution Clothing,Expense,Shopping,Clothing & Apparel
+Rite Aid,Expense,Health & Wellness,Pharmacy
+Ritz-Carlton,Expense,Travel,Hotels & Lodging
+Roku,Expense,Entertainment,Streaming Video
+Ross,Expense,Shopping,General Retail
+SAHARA,Expense,Food & Dining,Restaurants
+SALERNOS PIZZERIA,Expense,Food & Dining,Fast Food
+SAMAHA'S FARM,Expense,Food & Dining,Groceries
+SAMAHA`S FARM,Expense,Food & Dining,Groceries
+SAS,Expense,Travel,Airlines
+SBARRO,Expense,Food & Dining,Fast Food
+SCHOLASTIC BOOK FAIRS,Expense,Shopping,Books & Media
+SENSATE,Expense,Health & Wellness,Health Products
+SEPHORA.COM,Expense,Health & Wellness,Beauty & Spa
+SERENITY DENTAL,Expense,Health & Wellness,Medical & Dental
+SHAAN GRILL,Expense,Food & Dining,Restaurants
+SHAHNAWAZ HALAL MEAT.,Expense,Food & Dining,Groceries
+SHALIMAR HALAL MEAT,Expense,Food & Dining,Groceries
+SHALIMAR SWEETS,Expense,Food & Dining,Snacks & Drinks
+SHELL OIL,Expense,Transportation,Gas & Fuel
+SHILLEH HALAL,Expense,Food & Dining,Groceries
+SHOPRITE,Expense,Food & Dining,Groceries
+SHOWCASE,Expense,Entertainment,Movies & Events
+SM,Income,Transfers,Deposit
+SMASHVILLE HOT CHICKEN,Expense,Food & Dining,Fast Food
+SNAPOLOGY,Expense,Kids & Family,Toys & Activities
+SOFI LENDING,Expense,Financial Services,Lending & Loans
+SPAR,Expense,Food & Dining,Groceries
+SPEEDWAY,Expense,Transportation,Gas & Fuel
+SPOTHERO,Expense,Transportation,Tolls & Parking
+SPRING LAKE COMMUNITY,Expense,Entertainment,Sports & Recreation
+SPROUTS FARMERS MARKET,Expense,Food & Dining,Groceries
+ST JOHN VIANNEY HIGH SCHOOL,Expense,Education,Tuition & School
+ST JOHN'S NURSERY SCHOOL,Expense,Education,Tuition & School
+ST. BENEDICT,Expense,Education,Tuition & School
+ST.BENEDICT,Expense,Education,Tuition & School
+STAPLES,Expense,Shopping,Office Supplies
+STAR BAZAAR,Expense,Food & Dining,Groceries
+STARBUCKS,Expense,Food & Dining,Coffee & Tea
+STOP & SHOP,Expense,Food & Dining,Groceries
+SUBMITTABLE,Expense,Entertainment,Movies & Events
+SUBZI MANDI,Expense,Food & Dining,Groceries
+SUMMIT ONE,Expense,Entertainment,Movies & Events
+SUNDAES INTERNATIONAL,Expense,Food & Dining,Ice Cream & Yogurt
+SUNOCO,Expense,Transportation,Gas & Fuel
+SUPERSUMMARY,Expense,Subscriptions,Media & Lifestyle
+SWEET ICE CREAMERY,Expense,Food & Dining,Ice Cream & Yogurt
+SWING LOOSE,Expense,Entertainment,Amusement & Parks
+SaferVPN,Expense,Technology,VPN & Privacy
+Safeway,Expense,Food & Dining,Groceries
+Sainsbury's,Expense,Food & Dining,Groceries
+Salesforce,Expense,Technology,Software & SaaS
+Salty Crew,Expense,Shopping,Sporting Goods
+Sam's Club,Expense,Food & Dining,Groceries
+Samsung,Expense,Shopping,Electronics
+Save A Lot,Expense,Food & Dining,Groceries
+Schlotzsky's,Expense,Food & Dining,Fast Food
+Schnitzel Haus,Expense,Food & Dining,Restaurants
+Schnitzel Shack,Expense,Food & Dining,Restaurants
+Schnucks,Expense,Food & Dining,Groceries
+Scholastic,Expense,Shopping,Books & Media
+Seamless,Expense,Food & Dining,Food Delivery
+Sephora,Expense,Health & Wellness,Beauty & Spa
+Shake Shack,Expense,Food & Dining,Fast Food
+Shangri-La,Expense,Travel,Hotels & Lodging
+Sheetz,Expense,Transportation,Gas & Fuel
+Shell,Expense,Transportation,Gas & Fuel
+Sheraton,Expense,Travel,Hotels & Lodging
+ShopRite,Expense,Food & Dining,Groceries
+Shoppers Drug Mart,Expense,Food & Dining,Groceries
+Showtime,Expense,Entertainment,Streaming Video
+Shudder,Expense,Entertainment,Streaming Video
+Shufersal,Expense,Food & Dining,Groceries
+Shutterfly,Expense,Donations & Gifts,Gifts & Cards
+Sizzling Szechuan,Expense,Food & Dining,Restaurants
+Skechers,Expense,Shopping,Clothing & Apparel
+Skip The Dishes,Expense,Food & Dining,Food Delivery
+Slack,Expense,Technology,Software & SaaS
+Sling TV,Expense,Entertainment,Streaming Video
+Smoothie King,Expense,Food & Dining,Snacks & Drinks
+Snowflake,Expense,Technology,Software & SaaS
+Sobeys,Expense,Food & Dining,Groceries
+Sofitel,Expense,Travel,Hotels & Lodging
+Sonic Drive In,Expense,Food & Dining,Fast Food
+Sony,Expense,Shopping,Electronics
+Soriana,Expense,Food & Dining,Groceries
+Southwest Airlines,Expense,Travel,Airlines
+Space Needle,Expense,Entertainment,Amusement & Parks
+Speedway,Expense,Transportation,Gas & Fuel
+Spicy Ramen,Expense,Food & Dining,Restaurants
+Spinneys,Expense,Food & Dining,Groceries
+Spirit Airlines,Expense,Travel,Airlines
+Splunk,Expense,Technology,Software & SaaS
+Sports Authority,Expense,Shopping,Sporting Goods
+Sports Store,Expense,Shopping,Sporting Goods
+Spotify,Expense,Entertainment,Streaming Music
+Sprouts,Expense,Food & Dining,Groceries
+Squarespace,Expense,Technology,Software & SaaS
+St. Regis,Expense,Travel,Hotels & Lodging
+Staples,Expense,Shopping,Office Supplies
+Starbucks,Expense,Food & Dining,Coffee & Tea
+Starz,Expense,Entertainment,Streaming Video
+Stewart's Shops,Expense,Food & Dining,Groceries
+Stop & Shop,Expense,Food & Dining,Groceries
+StrongVPN,Expense,Technology,VPN & Privacy
+StubHub,Expense,Shopping,Online Marketplace
+Sub Zero,Expense,Food & Dining,Restaurants
+Subway,Expense,Food & Dining,Fast Food
+Sundance Now,Expense,Entertainment,Streaming Video
+Sunoco,Expense,Transportation,Gas & Fuel
+Surfshark,Expense,Technology,VPN & Privacy
+Sushi Sensation,Expense,Food & Dining,Restaurants
+Sushi Supreme,Expense,Food & Dining,Restaurants
+Sweet Frog,Expense,Food & Dining,Ice Cream & Yogurt
+Synapse,Expense,Technology,Software & SaaS
+T-MOBILE,Expense,Housing & Utilities,Telecom & Internet
+T.J. Maxx,Expense,Shopping,General Retail
+TACO BELL,Expense,Food & Dining,Fast Food
+TARGET,Expense,Shopping,General Retail
+TCBY,Expense,Food & Dining,Ice Cream & Yogurt
+TEAM BEACHBODY,Expense,Health & Wellness,Fitness & Gym
+TEAM EXPRESS,Expense,Shopping,Sporting Goods
+TEDDYBEARPORTRAITS.COM,Expense,Personal Services,Photography
+TEN TEA,Expense,Food & Dining,Coffee & Tea
+TERMINAL 9 GRILL,Expense,Food & Dining,Restaurants
+TESLA,Expense,Shopping,Electronics
+TGI Fridays,Expense,Food & Dining,Restaurants
+THE ANCHOR FISH,Expense,Food & Dining,Restaurants
+THE CHILDREN'S PLACE,Expense,Kids & Family,Toys & Activities
+THE CRYPTO MERCHANT,Expense,Financial Services,Crypto & Trading
+THE DEPOSITORY TRUST & CLEARING CORP.,Expense,Financial Services,Banking Fees
+THE HALAL CRAVE,Expense,Food & Dining,Restaurants
+THE HOBBY,Expense,Kids & Family,Toys & Activities
+THE NATIONAL SOCIETY,Expense,Donations & Gifts,Charity & Donations
+THE PIZZERIA,Expense,Food & Dining,Fast Food
+TICKETMASTER,Expense,Entertainment,Movies & Events
+TOWNSHIP OF OLD BRIDGE,Expense,Personal Services,Gov & DMV
+TOYS STOP,Expense,Kids & Family,Toys & Activities
+TURKUAZ RESTAURANT,Expense,Food & Dining,Restaurants
+TURNING POINT,Expense,Food & Dining,Restaurants
+Taco 911,Expense,Food & Dining,Fast Food
+Taco Bell,Expense,Food & Dining,Fast Food
+Taco Fiesta,Expense,Food & Dining,Fast Food
+Takeaways,Expense,Food & Dining,Food Delivery
+Talabat,Expense,Food & Dining,Food Delivery
+Tapas Bar,Expense,Food & Dining,Restaurants
+Tapas Town,Expense,Food & Dining,Restaurants
+Target,Expense,Shopping,General Retail
+Taxify,Expense,Transportation,Rideshare
+Ted Baker,Expense,Shopping,Clothing & Apparel
+Tesco,Expense,Food & Dining,Groceries
+Tesco Lotus,Expense,Food & Dining,Groceries
+Tesla,Expense,Shopping,Electronics
+Texaco,Expense,Transportation,Gas & Fuel
+Texas Roadhouse,Expense,Food & Dining,Restaurants
+The Bricks,Expense,Shopping,Home & Garden
+The Cheesecake Factory,Expense,Food & Dining,Restaurants
+The North Face,Expense,Shopping,Clothing & Apparel
+Thorntons,Expense,Food & Dining,Groceries
+Ticketmaster,Expense,Entertainment,Movies & Events
+Tidal,Expense,Entertainment,Streaming Music
+Tiffany's,Expense,Shopping,Clothing & Apparel
+Tinex,Expense,Food & Dining,Groceries
+Tissot,Expense,Shopping,Clothing & Apparel
+Tommy Hilfiger,Expense,Shopping,Clothing & Apparel
+TorGuard,Expense,Technology,VPN & Privacy
+Toys R Us,Expense,Kids & Family,Toys & Activities
+Trader Joe's,Expense,Food & Dining,Groceries
+Trust.Zone,Expense,Technology,VPN & Privacy
+Tubi,Expense,Entertainment,Streaming Video
+TunnelBear,Expense,Technology,VPN & Privacy
+Tutti Frutti,Expense,Food & Dining,Ice Cream & Yogurt
+Twitch,Expense,Entertainment,Gaming
+UBER,Expense,Transportation,Rideshare
+UBER EATS,Expense,Food & Dining,Food Delivery
+UBR POSTMATES,Expense,Food & Dining,Food Delivery
+ULTA,Expense,Health & Wellness,Beauty & Spa
+URBAN AIR,Expense,Entertainment,Amusement & Parks
+USPS,Expense,Personal Services,Printing & Shipping
+Uber,Expense,Transportation,Rideshare
+Uber Eats,Expense,Food & Dining,Food Delivery
+Ulta Beauty,Expense,Health & Wellness,Beauty & Spa
+Under Armour,Expense,Shopping,Clothing & Apparel
+Union Coop,Expense,Food & Dining,Groceries
+Uniqlo,Expense,Shopping,Clothing & Apparel
+United Airlines,Expense,Travel,Airlines
+VARSITYTUTORS,Expense,Education,Online Learning
+VERIZON,Expense,Housing & Utilities,Telecom & Internet
+VERIZON WIRELESS,Expense,Housing & Utilities,Telecom & Internet
+VFS SERVICES,Expense,Entertainment,Movies & Events
+VMware,Expense,Technology,Software & SaaS
+VONAGE,Expense,Housing & Utilities,Utilities
+VPN Unlimited,Expense,Technology,VPN & Privacy
+VPNArea,Expense,Technology,VPN & Privacy
+VPNSecure,Expense,Technology,VPN & Privacy
+Valero,Expense,Transportation,Gas & Fuel
+Vans,Expense,Shopping,Clothing & Apparel
+Verizon,Expense,Housing & Utilities,Telecom & Internet
+Vimeo,Expense,Entertainment,Streaming Video
+Volkswagen,Expense,Transportation,Car Service & Parts
+Vons,Expense,Food & Dining,Groceries
+Vudu,Expense,Entertainment,Streaming Video
+VyprVPN,Expense,Technology,VPN & Privacy
+W Hotel,Expense,Travel,Hotels & Lodging
+WALGREENS,Expense,Health & Wellness,Pharmacy
+WALMART,Expense,Shopping,General Retail
+WAVE HOSPITALITY,Expense,Entertainment,Movies & Events
+WAWA,Expense,Transportation,Gas & Fuel
+WEGMANS,Expense,Food & Dining,Groceries
+WENDY'S,Expense,Food & Dining,Fast Food
+WHOLE FOODS,Expense,Food & Dining,Groceries
+WINXDVD.COM,Expense,Subscriptions,Media & Lifestyle
+WOODBRIDGE INTERNAL MEDICINE,Expense,Health & Wellness,Medical & Dental
+WRITTEN OUT LOUD,Expense,Personal Services,Printing & Shipping
+Waitrose,Expense,Food & Dining,Groceries
+Waldorf Astoria,Expense,Travel,Hotels & Lodging
+Walgreens,Expense,Health & Wellness,Pharmacy
+Walmart,Expense,Shopping,General Retail
+Wawa,Expense,Transportation,Gas & Fuel
+Wayfair,Expense,Shopping,General Retail
+Wegmans,Expense,Food & Dining,Groceries
+Weis Markets,Expense,Food & Dining,Groceries
+Wellcome,Expense,Food & Dining,Groceries
+Wendy's,Expense,Food & Dining,Fast Food
+Westin,Expense,Travel,Hotels & Lodging
+Wetzel's Pretzels,Expense,Food & Dining,Bakery & Desserts
+Whataburger,Expense,Food & Dining,Fast Food
+Whole Foods,Expense,Food & Dining,Groceries
+Windscribe,Expense,Technology,VPN & Privacy
+Wingstop,Expense,Food & Dining,Fast Food
+Winn Dixie,Expense,Food & Dining,Groceries
+Winn-Dixie,Expense,Food & Dining,Groceries
+Wish,Expense,Shopping,Online Marketplace
+Wolt,Expense,Food & Dining,Food Delivery
+Woolworths,Expense,Food & Dining,Groceries
+Workday,Expense,Technology,Software & SaaS
+XPEL,Expense,Transportation,Car Service & Parts
+Xbox Live,Expense,Entertainment,Gaming
+YANKEE CANDLE,Expense,Shopping,Home & Garden
+YMCA,Expense,Health & Wellness,Fitness & Gym
+Yandex,Expense,Technology,Software & SaaS
+Yoga Studio,Expense,Health & Wellness,Fitness & Gym
+Yogen Früz,Expense,Food & Dining,Ice Cream & Yogurt
+Yogurt City,Expense,Food & Dining,Ice Cream & Yogurt
+Yogurt Mountain,Expense,Food & Dining,Ice Cream & Yogurt
+Yogurt World,Expense,Food & Dining,Ice Cream & Yogurt
+Yogurt Zone,Expense,Food & Dining,Ice Cream & Yogurt
+Yogurtland,Expense,Food & Dining,Ice Cream & Yogurt
+YouTube,Expense,Entertainment,Streaming Video
+Yves Saint Laurent,Expense,Shopping,Clothing & Apparel
+ZAIKA BBQ,Expense,Food & Dining,Restaurants
+ZARA SALON,Expense,Health & Wellness,Beauty & Spa
+ZGMYC Fashion Leopard,Expense,Shopping,Clothing & Apparel
+ZOLA.COM,Expense,Donations & Gifts,Gifts & Cards
+ZOOM,Expense,Technology,Software & SaaS
+Zappos,Expense,Shopping,Clothing & Apparel
+Zara,Expense,Shopping,Clothing & Apparel
+Zaxby's,Expense,Food & Dining,Fast Food
+ZenMate,Expense,Technology,VPN & Privacy
+Zomato,Expense,Food & Dining,Food Delivery
+Zoom,Expense,Technology,Software & SaaS
+Zscaler,Expense,Technology,Software & SaaS
+Zumba Power Gym,Expense,Health & Wellness,Fitness & Gym
+eBay,Expense,Shopping,General Retail
