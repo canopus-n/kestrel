@@ -1,5 +1,5 @@
 """
-Export the trained Kestrel model to ONNX format for use in Puffin.
+Export the trained Kestrel model to ONNX format for inference.
 
 Uses HuggingFace Optimum for clean ONNX export with proper input/output naming.
 """
