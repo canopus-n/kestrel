@@ -1,0 +1,12 @@
+eval_set,pattern,suggested_action,description,expected,predicted,token_f1
+eval_manual,other,alias_or_canonicalize,GOOGLE *YOUTUBEPREMIUM1600 AMPHITHEATRE PKWY 650-253-0000 94043 CA USA,YouTube Premium,YouTube,0.667
+eval_merchant,pipe_delimited,add_pipe_id_variants,**ID012345|07/20|**2345|USD34.56|MICHAELS|CRAFT|PURCHASE|WCHITAKS,Michaels,Miacos,0.0
+eval_merchant,pipe_delimited,add_pipe_id_variants,**ID871905|05/06|**1905|USD99.99|ROKU|TECH|SUBSCR|SARATOGA_US,Roku,Raku,0.0
+eval_merchant,square_prefix,add_training_variants,*SQ JASON'S DELI HONG KONG 03/01 PURCHASE HONG KONG HK,Jason's Deli,Jack's Donuts,0.0
+eval_merchant,other,add_training_variants,ALTICEMOBILE.COM 1111 STEWART AVENUE 888-333-0643 11714 NY USA,ALTICEMOBILE.COM,ALTICEMOBILE,0.0
+eval_merchant,obfuscated_code,add_obfuscated_variants,FERRERO_ROCHER_765 03/18 #XXXXX5765 PURCHASE CHOCOLATES ALBA IT,Ferrero Rocher,Ferrari,0.0
+eval_merchant,square_prefix,alias_or_canonicalize,*SQ FALAFEL FEAST BEIRUT 03/20 PURCHASE BEIRUT LB,Falafel Feast,Falafel Feist,0.5
+eval_merchant,square_prefix,alias_or_canonicalize,SQ *PLAYLAND WOODBRIDG250 WOODBRIDGE CENTER DRIVE WOODBRIDGE TO07095 NJ USA,PLAYLAND,PLAYLAND WOODBRIDGE,0.667
+eval_merchant,other,alias_or_canonicalize,"BCF ETSY UPLIFT 1000 DEAN STREET, SUITE 307 BCFNY.ORG/EF 11238 NY USA",Etsy,BCF Etsy,0.667
+eval_merchant,other,alias_or_canonicalize,LOVELY &amp; KANDAHAR SWEE1380 OAK TREE RD ISELIN 08830 NJ USA,LOVELY,LOVELY & KANDAHAR,0.667
+eval_merchant,delivery_platform,alias_or_canonicalize,DOORDASH*ROUND PIE PIZ303 2ND STREETSUITE 800 SAN FRANCISCO94107 CA USA,DoorDash ROUND PIE PIZZA,DoorDash ROUND PIE PIZ,0.75
