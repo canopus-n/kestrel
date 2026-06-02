@@ -1,0 +1,50 @@
+[
+  {
+    "description": "NETFLIX.COM 121 ALBRIGHT WAY LOS GATOS 95032 CA USA",
+    "merchant": "Netflix"
+  },
+  {
+    "description": "MCDONALD'S F2548 RT 35 & AMBOY CLIFFWOOD BEA07735 NJ USA",
+    "merchant": "McDonald's"
+  },
+  {
+    "description": "WAL-MART #2825 1126 US HIGHWAY 9 OLD BRIDGE 08857 NJ USA",
+    "merchant": "Walmart"
+  },
+  {
+    "description": "GOOGLE *YOUTUBEPREMIUM1600 AMPHITHEATRE PKWY 650-253-0000 94043 CA USA",
+    "merchant": "YouTube Premium"
+  },
+  {
+    "description": "PAYPAL DES:INST XFER ID:LYFTRIDEUS INDN:JENNIFER DAVIS CO ID:PAYPALSI78 WEB",
+    "merchant": "Lyft"
+  },
+  {
+    "description": "TRADER_JS_092 07/08 #XXXXX0092 PURCHASE GROCERIES MONROVIA CA",
+    "merchant": "Trader Joe's"
+  },
+  {
+    "description": "GEICO *AUTO ONE GEICO PLAZA 800-841-3000 20076 DC USA",
+    "merchant": "GEICO"
+  },
+  {
+    "description": "APPLE.COM/BILL ONE APPLE PARK WAY 866-712-7753 95014 CA USA",
+    "merchant": "Apple"
+  },
+  {
+    "description": "SHOPRITE HAZLET S1 3150 STATE HIGHWAY 35 HAZLET 07735 NJ USA",
+    "merchant": "ShopRite"
+  },
+  {
+    "description": "NJ EZPASS 375 MCCARTER HIGHWAY NEWARK 07114 NJ USA",
+    "merchant": "NJ E-ZPass"
+  },
+  {
+    "description": "ACH DEPOSIT INTERNET TRANSFER FROM ACCOUNT ENDING IN 1986",
+    "merchant": " "
+  },
+  {
+    "description": "DAILY CASH ADJUSTMENT",
+    "merchant": " "
+  }
+]

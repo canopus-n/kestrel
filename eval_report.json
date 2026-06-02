@@ -1,0 +1,96 @@
+{
+  "model_path": "output/final",
+  "sets": [
+    {
+      "name": "eval_manual",
+      "total": 12,
+      "merchant": {
+        "count": 10,
+        "exact_match_rate": 0.9,
+        "normalized_match_rate": 1.0,
+        "mean_token_f1": 0.9666666666666666
+      },
+      "non_merchant": {
+        "empty_precision": 1.0,
+        "empty_recall": 1.0,
+        "empty_f1": 1.0,
+        "false_merchant_count": 0,
+        "missed_empty_count": 0,
+        "count": 2
+      },
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "eval_merchant",
+      "total": 400,
+      "merchant": {
+        "count": 400,
+        "exact_match_rate": 0.9675,
+        "normalized_match_rate": 0.9875,
+        "mean_token_f1": 0.9806011904761905
+      },
+      "non_merchant": {
+        "count": 0
+      },
+      "failure_count": 5,
+      "failures": [
+        {
+          "description": "**ID012345|07/20|**2345|USD34.56|MICHAELS|CRAFT|PURCHASE|WCHITAKS",
+          "expected": "Michaels",
+          "predicted": "Miacos",
+          "exact": false,
+          "token_f1": 0.0
+        },
+        {
+          "description": "**ID871905|05/06|**1905|USD99.99|ROKU|TECH|SUBSCR|SARATOGA_US",
+          "expected": "Roku",
+          "predicted": "Raku",
+          "exact": false,
+          "token_f1": 0.0
+        },
+        {
+          "description": "*SQ JASON'S DELI HONG KONG 03/01 PURCHASE HONG KONG HK",
+          "expected": "Jason's Deli",
+          "predicted": "Jack's Donuts",
+          "exact": false,
+          "token_f1": 0.0
+        },
+        {
+          "description": "FERRERO_ROCHER_765 03/18 #XXXXX5765 PURCHASE CHOCOLATES ALBA IT",
+          "expected": "Ferrero Rocher",
+          "predicted": "Ferrari",
+          "exact": false,
+          "token_f1": 0.0
+        },
+        {
+          "description": "*SQ FALAFEL FEAST BEIRUT 03/20 PURCHASE BEIRUT LB",
+          "expected": "Falafel Feast",
+          "predicted": "Falafel Feist",
+          "exact": false,
+          "token_f1": 0.5
+        }
+      ]
+    },
+    {
+      "name": "eval_non_merchant",
+      "total": 150,
+      "merchant": {
+        "count": 0,
+        "exact_match_rate": 0.0,
+        "normalized_match_rate": 0.0,
+        "mean_token_f1": 0.0
+      },
+      "non_merchant": {
+        "empty_precision": 1.0,
+        "empty_recall": 1.0,
+        "empty_f1": 1.0,
+        "false_merchant_count": 0,
+        "missed_empty_count": 0,
+        "count": 150
+      },
+      "failure_count": 0,
+      "failures": []
+    }
+  ]
+}

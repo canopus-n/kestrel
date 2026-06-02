@@ -15,6 +15,7 @@ seq2seq natively and produces clean text output.
 
 import torch
 from datasets import load_dataset, Dataset
+from kestrel_metrics import load_eval_descriptions
 from transformers import (
     T5ForConditionalGeneration,
     AutoTokenizer,
@@ -36,10 +37,15 @@ def main():
         device = "cpu"
         print("Using CPU (this will be slow)")
 
-    # Load dataset from combined_transactions.csv
+    # Load dataset from combined_transactions.csv (exclude held-out eval rows)
     print("Loading combined_transactions.csv...")
     dataset = load_dataset("csv", data_files="combined_transactions.csv", split="train")
     dataset = dataset.rename_column("description", "transaction")
+    eval_desc = load_eval_descriptions()
+    if eval_desc:
+        before = len(dataset)
+        dataset = dataset.filter(lambda row: row["transaction"] not in eval_desc)
+        print(f"  Excluded {before - len(dataset)} held-out eval rows ({len(eval_desc)} descriptions)")
 
     # Split into train/test (85/15)
     split = dataset.train_test_split(test_size=0.15, seed=42)
